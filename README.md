@@ -1,5 +1,6 @@
 # Requirements
 
-python3
-pygame `pip install pygame`
+**python3**
+
+**pygame** `pip install pygame`
 
