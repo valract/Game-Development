@@ -1,6 +1,9 @@
 # Requirements
 
-**python3**
+python3
 
-**pygame** `pip install pygame`
+pygame `pip install pygame`
+
+Author: Tushar Kumar
+Version: 1.X
 
